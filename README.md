@@ -27,6 +27,3 @@
 
 4. アプリの起動:
    streamlit run app.py
-
-## 👤 開発者
-- Mariko Yamaguchi
